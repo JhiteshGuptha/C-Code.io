@@ -22,4 +22,3 @@ void printHelloWorld(int count) {
     printf("Hello World\n");
     printHelloWorld(count-1); // printHelloWorld is called inside the same function
 }
-
